@@ -1,0 +1,6 @@
+{
+  "name": "Number Guessing Game",
+  "description": "A Number Guessing game where you try to guess a random number between 1 and 100 in limited attempts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
